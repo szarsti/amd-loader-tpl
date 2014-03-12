@@ -1,0 +1,22 @@
+{
+  "name": "amd-loader-tpl",
+  "version": "0.2.0",
+  "description": "An AMD loader plugin for loading UnderscoreJS micro templates.",
+  "main": "tpl.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ZeeAgency/requirejs-tpl.git"
+  },
+  "keywords": [
+    "AMD"
+  ],
+  "author": "Julien Cabanès <julien@zeeagency.com>",
+  "license": "ICS",
+  "bugs": {
+    "url": "https://github.com/ZeeAgency/requirejs-tpl/issues"
+  },
+  "homepage": "https://github.com/ZeeAgency/requirejs-tpl"
+}
